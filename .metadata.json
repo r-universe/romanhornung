@@ -1,0 +1,10 @@
+[
+  {
+    "package": "diversityForest",
+    "oncran": true
+  },
+  {
+    "package": "rfvimptest",
+    "oncran": true
+  }
+]

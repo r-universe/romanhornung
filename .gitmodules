@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diversityForest"]
+	path = diversityForest
+	url = https://github.com/romanhornung/diversityforest
+	shallow = true
+	registered = true
+[submodule "rfvimptest"]
+	path = rfvimptest
+	url = https://github.com/romanhornung/rfvimptest
+	shallow = true
+	registered = true
