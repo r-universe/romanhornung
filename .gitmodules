@@ -25,7 +25,7 @@
 	registered = true
 [submodule "prioritylasso"]
 	path = prioritylasso
-	url = https://github.com/cran/prioritylasso
+	url = https://github.com/romanhornung/prioritylasso
 	shallow = true
 	registered = true
 [submodule "rfvimptest"]
