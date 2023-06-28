@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bapred"]
 	path = bapred
 	url = https://github.com/cran/bapred
-	shallow = true
-	registered = true
 [submodule "CMA"]
 	path = CMA
 	url = https://git.bioconductor.org/packages/CMA
-	shallow = true
-	registered = true
 [submodule "diversityForest"]
 	path = diversityForest
 	url = https://github.com/romanhornung/diversityforest
-	shallow = true
-	registered = true
 [submodule "ordinalForest"]
 	path = ordinalForest
 	url = https://github.com/cran/ordinalForest
-	shallow = true
-	registered = true
 [submodule "prioritylasso"]
 	path = prioritylasso
 	url = https://github.com/romanhornung/prioritylasso
-	shallow = true
-	registered = true
 [submodule "rfvimptest"]
 	path = rfvimptest
 	url = https://github.com/romanhornung/rfvimptest
-	shallow = true
-	registered = true
