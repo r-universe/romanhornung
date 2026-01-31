@@ -17,3 +17,6 @@
 [submodule "rfvimptest"]
 	path = rfvimptest
 	url = https://github.com/romanhornung/rfvimptest
+[submodule "unityForest"]
+	path = unityForest
+	url = https://github.com/cran/unityForest
