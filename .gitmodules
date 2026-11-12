@@ -5,9 +5,6 @@
 [submodule "bapred"]
 	path = bapred
 	url = https://github.com/cran/bapred
-[submodule "diversityForest"]
-	path = diversityForest
-	url = https://github.com/romanhornung/diversityforest
 [submodule "ordinalForest"]
 	path = ordinalForest
 	url = https://github.com/cran/ordinalForest
